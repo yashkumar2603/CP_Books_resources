@@ -5,7 +5,7 @@ all data structures and all present.
 
 **Algo.pdf** => all the very imp algos in one place. [name only]
 
-**algorithm2** => continuation of ---
+**algorithm2** => continuation of **algorithm1** [ good ]
 Has all the agorithms except DP in 50 pages. [ good ]
 
 **Algorrithms** => exhaustive list of most of the algorithms used for Cp.
